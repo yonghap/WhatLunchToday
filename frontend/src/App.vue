@@ -9,5 +9,5 @@
 </template>
 
 <style>
-	@import '@/assets/sass/common.scss';
+	@import '@/assets/css/common.scss';
 </style>

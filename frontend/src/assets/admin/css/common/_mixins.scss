@@ -1,0 +1,4 @@
+@charset "UTF-8";
+@mixin transition($info:all .3s ease-out) {
+	transition:$info;
+}
